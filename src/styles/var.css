@@ -1,0 +1,10 @@
+@svg 1px-border {
+    height: 4px;
+    width: 4px;
+    @rect {
+        fill: var(--color, black);
+        width: 100%;
+        height: 100%;
+    }
+}
+

@@ -1,0 +1,28 @@
+{
+  "name": "wap-temp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "caniuse-lite": "^1.0.30000697",
+    "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.6",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@bl4ckn1ght/postcss-px2vw": "^0.0.1",
+    "@vitejs/plugin-vue": "^2.2.0",
+    "object-assign": "^4.1.1",
+    "postcss": "^8.4.8",
+    "postcss-write-svg": "^3.0.1",
+    "vite": "^2.8.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4.8"
+  }
+}
